@@ -1,0 +1,11 @@
+body{
+  --slack-color : #3f0f40;
+  /* overflow: auto; */
+}
+
+.app_body{
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+
+}
